@@ -1,0 +1,25 @@
+# Created by pytest automatically.
+configs
+# Python cache
+__pycache__/
+*.pyc
+
+# pytest cache
+.pytest_cache/
+
+# allure reports
+allure-results/
+allure-report/
+
+# sensitive data
+test_data/
+configs/config.yaml
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+#User_data
+test_data/users.json
+

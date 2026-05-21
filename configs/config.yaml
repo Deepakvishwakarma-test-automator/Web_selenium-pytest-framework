@@ -1,0 +1,13 @@
+base_url: "https://www.saucedemo.com"
+
+browser:
+  name: firefox
+  headless: false
+
+timeouts:
+  implicit: 5
+  explicit: 10
+
+credentials:
+  username: "standard_user"
+  password: "secret_sauce"

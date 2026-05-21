@@ -1,0 +1,3 @@
+
+ CONFIG PATH USED: /home/ankitasingh/Desktop/WEB_AUTOMATION/AUtomate_test_web/Automate_test_web/configs/config.yaml
+RAW CONFIG LOADED: {'base_url': 'https://www.saucedemo.com', 'browser': {'name': 'chrome', 'headless': False}, 'timeouts': {'implicit': 5, 'explicit': 10}, 'credentials': {'username': 'standard_user', 'password': 'secret_sauce'}}
