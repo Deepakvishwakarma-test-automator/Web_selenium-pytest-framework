@@ -4,5 +4,6 @@
   "tests/test_login.py::test_login[data0]": true,
   "tests/test_login.py::test_login[data1]": true,
   "tests/test_login.py::test_login[data2]": true,
-  "tests/test_login.py::test_login[data3]": true
+  "tests/test_login.py::test_login[data3]": true,
+  "tests/test_logout.py::test_logout[test_data3]": true
 }

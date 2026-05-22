@@ -4,5 +4,9 @@
   "tests/test_login.py::test_login[data1]",
   "tests/test_login.py::test_login[data2]",
   "tests/test_login.py::test_login[data3]",
-  "tests/test_login.py::test_valid_login"
+  "tests/test_login.py::test_valid_login",
+  "tests/test_logout.py::test_logout[test_data0]",
+  "tests/test_logout.py::test_logout[test_data1]",
+  "tests/test_logout.py::test_logout[test_data2]",
+  "tests/test_logout.py::test_logout[test_data3]"
 ]

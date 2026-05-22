@@ -14,3 +14,11 @@ class InventoryPage(BasePage):
 
     def open_cart(self):
         self.click(InventoryLocators.SHOPPING_CART)
+
+    def open_menu(self):
+        self.click(InventoryLocators.MENU_BUTTON)
+
+    def logout(self):
+        self.open_menu()
+        self.click(InventoryLocators.LOGOUT_BUTTON) 
+        

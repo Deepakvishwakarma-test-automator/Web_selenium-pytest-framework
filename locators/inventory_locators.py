@@ -13,3 +13,8 @@ class InventoryLocators:
     )
 
     SHOPPING_CART = (By.CLASS_NAME, "shopping_cart_link")
+
+    MENU_BUTTON = (By.XPATH, "//div[@class='bm-burger-button']// button[@id = 'react-burger-menu-btn']")
+
+    LOGOUT_BUTTON = (By.XPATH, "//div[@class = 'bm-menu']//a[contains(normalize-space(), 'Logout')]")
+    
